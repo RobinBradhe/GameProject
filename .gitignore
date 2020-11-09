@@ -1,0 +1,8 @@
+*.dll
+*.lock
+/Logs
+/obj/Debug
+/Library
+/Packages
+/Temp
+*.suo
